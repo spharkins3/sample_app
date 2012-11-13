@@ -19,6 +19,7 @@ gem 'jquery-rails', '2.0.2'
 
 group :test do
   gem 'capybara', '1.1.2'
+  # System-dependent gems
 end
 
 group :production do
